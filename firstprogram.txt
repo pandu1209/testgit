@@ -1,3 +1,9 @@
 This is my git first program
 this is my second time code
+<<<<<<< HEAD
 this venkat code
+=======
+modification by sandeep
+another modification
+this is my modification using vi editor
+>>>>>>> f3ff02e9315cd11aefc7558d9a5a19073abb7716
