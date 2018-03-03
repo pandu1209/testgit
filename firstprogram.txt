@@ -1,6 +1,6 @@
 This is my git first program
 this is my second time code
-hello guys how are you
+
 my name is venkat
 i am from krishna district
 my son name is Rohitaksh
